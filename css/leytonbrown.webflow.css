@@ -1618,6 +1618,7 @@ p {
   }
 
   .mob-version {
+    border-width: 0;
     display: flex;
   }
 
